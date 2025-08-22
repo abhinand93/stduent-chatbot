@@ -1,0 +1,10 @@
+llm: "llama-3.3-70b-versatile"
+embedding_model: "all-MiniLM-L6-v2"
+
+max_history_length: 10
+
+vectordb:
+  threshold: 0.5
+  n_results: 3
+
+
